@@ -1,6 +1,9 @@
 # planet_galaxy_rnw
 
-A new Flutter application.
+A new Flutter application with animation.
+
+![My Portfolio App](https://github.com/ChiragBoghara/Flutter_Planet_Galaxy/blob/master/assets/images/mainapp.gif?raw=true)
+
 
 ## Getting Started
 
